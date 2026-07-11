@@ -1,3 +1,8 @@
 spring:
   application:
-    name: spring-boot-clean-car
+    name: lavajato
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/lavajato
+    username: postgres
+    password: Cesar123
