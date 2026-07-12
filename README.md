@@ -117,6 +117,12 @@ src/main/java/br/com/pitstop/spring_boot_clean_car
 ├── config        # segurança, swagger, dados iniciais
 └── exception     # exceções + tratamento global
 ```
-
 ---
+
+<img width="1891" height="1075" alt="1" src="https://github.com/user-attachments/assets/6f0b7587-344c-4217-8bf6-5354570dea54" />
+<img width="1904" height="903" alt="2" src="https://github.com/user-attachments/assets/42af041f-319e-4b8b-9862-4dab26abf0aa" />
+<img width="1902" height="917" alt="3" src="https://github.com/user-attachments/assets/004caa8c-c405-4f94-9df1-b533a391fb86" />
+
+
+
 
