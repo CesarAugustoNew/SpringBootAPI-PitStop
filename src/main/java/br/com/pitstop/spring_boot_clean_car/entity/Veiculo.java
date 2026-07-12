@@ -1,6 +1,5 @@
 package br.com.pitstop.spring_boot_clean_car.entity;
 
-import br.com.pitstop.spring_boot_clean_car.enums.Role;
 import jakarta.persistence.*;
 import lombok.*;
 
