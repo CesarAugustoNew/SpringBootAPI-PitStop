@@ -97,8 +97,6 @@ Fluxo de status de uma ordem de serviço: `RECEBIDO` → `EM_LAVAGEM` → `FINAL
 - faturamento total do dia
 - faturamento e quantidade por tipo de serviço
 
-> O front-end que vai consumir esse endpoint ainda não foi criado — o endpoint já está pronto para quando ele existir.
-
 ---
 
 ## 📂 Estrutura
