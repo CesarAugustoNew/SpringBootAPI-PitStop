@@ -3,9 +3,9 @@ spring:
     name: CleanCar
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/CleanCar
-    username: postgres
-    password: Cesar123
+    url: 
+    username: 
+    password: 
     driver-class-name: org.postgresql.Driver
 
   jpa:
@@ -22,10 +22,9 @@ server:
 
 # JWT
 jwt:
-  secret: pitstop-clean-car-jwt-chave-secreta-muito-segura-256-bits-ou-mais-longa-aqui
   expiration: 86400000
 
-# Usuario admin criado automaticamente na primeira execucao
+# Usuario admin criado automaticamente para qualquer um testar 
 admin:
   nome: Administrador
   email: admin@pitstop.com
